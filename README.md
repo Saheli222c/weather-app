@@ -62,7 +62,6 @@ Website:
 https://www.weatherapi.com/
 
 ---
-
  📸 Screenshot
 
 
