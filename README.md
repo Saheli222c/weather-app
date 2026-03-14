@@ -64,7 +64,7 @@ https://www.weatherapi.com/
 ---
  📸 Screenshot
 
-![Weather App Screenshot](weather-app.png)
+weather%20picture.png
 
 #👨‍💻 Author
 
